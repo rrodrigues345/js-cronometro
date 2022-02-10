@@ -1,0 +1,26 @@
+
+
+body {
+    background-color:rgb(251, 255, 0);
+}
+
+.caixa {
+    font-family: Tahoma;
+    text-align: center;
+    color: black;
+}
+
+#segundos, #decimos, #pontos {
+    font-size:2em;
+  }
+
+button {
+    color: black;
+    font-size: 1.2em;
+    border: solid 1px black;
+    padding: 18px 10px;
+    width: 180px;
+    margin: 10px;
+    background-color:rgb(251, 255, 0);
+    
+}
