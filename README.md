@@ -2,11 +2,7 @@
 
 ## Um simples cronômetro em JavaScript Vanilla
 
-[![Cronômetro JavaScript](cronometro.png)](https://rrodrigues345.github.io/js-cronometro/)
-
-## 
-
-<a href="https://rrodrigues345.github.io/js-cronometro" target="_blank"><img src="cronometro.png" target="_blank"></a>
+<a href="https://rrodrigues345.github.io/js-cronometro" target="_blank"><img src="cronometro.png" align="center"></a>
 
 Referências:
 
