@@ -7,12 +7,3 @@
 Referências:
 
 1. Como parte do aprendizado em HTML, CSS e JavaScript, foi realizado o estudo do Cronômetro desenvolvido por [Cathy Dutton](https://codepen.io/cathydutton/pen/xxpOOw).
-
-
-
-
-<a href="http://www.google.com" target="_blank">
-  <img width="220" height="250" border="0" align="center"  src=""/>
-</a>
-
-
