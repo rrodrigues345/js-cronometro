@@ -1,13 +1,18 @@
 
 
 body {
-    background-color:rgb(251, 255, 0);
+    background-color:#E5ECFB;
 }
 
 .caixa {
     font-family: Tahoma;
     text-align: center;
-    color: black;
+    color: #0D1931;
+    /* border: solid 1px #0D1931;
+    border-radius: 20px;
+    padding: 50px 10px;
+    width: 100px;
+    margin: 10px; */
 }
 
 #segundos, #decimos, #pontos {
@@ -15,12 +20,12 @@ body {
   }
 
 button {
-    color: black;
+    color: #0D1931;
     font-size: 1.2em;
-    border: solid 1px black;
+    border: solid 1px #0D1931;
     padding: 18px 10px;
     width: 180px;
     margin: 10px;
-    background-color:rgb(251, 255, 0);
+    background-color:#E5ECFB;
     
 }
